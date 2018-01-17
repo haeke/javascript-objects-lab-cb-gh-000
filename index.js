@@ -1,5 +1,5 @@
 
-var recipies = {
+var recipes = {
   food: 'ham',
 };
 
