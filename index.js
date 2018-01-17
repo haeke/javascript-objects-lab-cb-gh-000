@@ -1,5 +1,7 @@
 
-var recipies = {};
+var recipies = {
+  food: 'ham',
+};
 
 function updateObjectWithKeyAndValue(object, key, value) {
   var recipies2 = Object.assign({}, object, { key: value });
